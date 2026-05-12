@@ -1,15 +1,9 @@
-## ✅ github flow
+## ✅ 정리 내용
 
 -
 
 ---
 
-## ☑️ commit convention
-
--
-
----
-
-## 📖 pull request template
+## ☑️ 정리 참고 내용
 
 -
